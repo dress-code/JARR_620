@@ -161,13 +161,12 @@ h1 {
     font-style: italic;
 }
 
-h1, h2 {
-    font-weight: 700;
+h1, h2, h3 {
+    font-weight: 600;
 }
 
 h3 {
     width: 70%;
-    font-weight: 600;
 }
 
 p, dd {
