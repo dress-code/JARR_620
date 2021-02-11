@@ -208,6 +208,10 @@ dd {
     margin: 8px 0;
 }
 
+.twoColumns > div > p {
+    margin: 0;
+}
+
 .profileImage {
     width: 76px;
 }
