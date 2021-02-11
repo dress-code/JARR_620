@@ -179,10 +179,13 @@ p, dd {
 
 dt {
     margin-top: 5px;
+    font-style: italic;
 }
 
 dd {
-    margin-bottom: 5px;
+    margin-bottom: 10px;
+    width: 95%;
+    margin-left: 5%;
 }
 
 .twoColumns {
