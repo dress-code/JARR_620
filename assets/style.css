@@ -36,10 +36,7 @@
 #mobileNav > ul {
     margin-top: 48px;
     margin-right: 25px;
-}
-
-#mobileNav > ul, #mobileNav > ul > li > a {
-    text-align: right;
+    list-style-type: none;
 }
 
 #mobileNav > ul > li {
