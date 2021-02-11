@@ -169,7 +169,7 @@ h3 {
     width: 70%;
 }
 
-p {
+p, dd {
     line-height: 22px;
     font-size: 14px;
     letter-spacing: .5px;
