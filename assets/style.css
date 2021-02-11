@@ -151,7 +151,7 @@ h1 {
     margin-top: 60px;
 }
 
-h1 > span {
+.subtitle {
     font-size: 16px;
     font-weight: 400;
     font-style: italic;
