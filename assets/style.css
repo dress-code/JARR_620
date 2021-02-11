@@ -4,6 +4,8 @@
     font-family: omnes-pro, sans-serif;
 }
 
+/*--------- NAV STYLES -----------*/
+
 #headerNav {
     width: 100%;
     height: 48px;
@@ -126,6 +128,8 @@
   left: 8px;
 }
 
+/*---------- GENERAL STYLES ----------*/
+
 .selected {
     font-weight: bold;
 }
@@ -145,10 +149,15 @@ section {
 h1 {
     width: 70%;
     margin-top: 60px;
-    font-weight: 600;
 }
 
-h2 {
+h1 > span {
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+h1, h2 {
     font-weight: 500;
 }
 
