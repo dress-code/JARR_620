@@ -194,7 +194,7 @@ dd {
 
 .twoColumns > div {
     width: 100%;
-    margin: 20px 0;
+    margin: 16px 0;
 }
 
 @media screen and (min-width: 750px){
