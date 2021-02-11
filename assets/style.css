@@ -177,13 +177,12 @@ p {
 }
 
 .twoColumns {
-    width: 70%;
     display: flex;
     flex-wrap: wrap;
 }
 
-.twoColumn > div {
-    width: 25%;
+.twoColumns > div {
+    width: 40%;
     margin: 5%;
 }
 
