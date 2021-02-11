@@ -4,6 +4,10 @@
     font-family: omnes-pro, sans-serif;
 }
 
+body {
+    background-color: #FAFAFA;
+}
+
 /*--------- NAV STYLES -----------*/
 
 li:hover {
