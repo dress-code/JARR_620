@@ -32,7 +32,19 @@ main {
 }
 
 section {
-    width: 500px;
+    width: 400px;
+    margin: 24px 0;
+}
+
+section > h1 {
+    width: 400px;
+    margin-bottom: 24px;
+}
+
+@media screen and (min-width: 750px){
+    section, section > h1 {
+        width: 500px;
+    }  
 }
 
 @media screen and (min-width: 1000px){
