@@ -176,13 +176,17 @@ p, dd {
     font-weight: 400;
 }
 
+p {
+    margin: 8px 0;
+}
+
 dt {
-    margin-top: 5px;
+    margin-top: 4px;
     font-style: italic;
 }
 
 dd {
-    margin-bottom: 10px;
+    margin-bottom: 12px;
     width: 95%;
     margin-left: 5%;
 }
