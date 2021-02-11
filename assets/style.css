@@ -208,6 +208,10 @@ dd {
     margin: 8px 0;
 }
 
+.profileImage {
+    width: 76px;
+}
+
 /*---------- FOOTER STYLES ---------*/
 footer {
     width: 100%;
