@@ -182,14 +182,19 @@ p, dd {
 }
 
 .twoColumns > div {
-    width: 40%;
-    margin: 5%;
+    width: 100%;
+    margin: 0;
 }
 
 @media screen and (min-width: 750px){
     section, h1, h3 {
         width: 600px;
     }  
+    
+    .twoColumns > div {
+        width: 40%;
+        margin: 5%;
+    }
 }
 
 @media screen and (min-width: 1000px){
