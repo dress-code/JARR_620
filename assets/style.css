@@ -17,14 +17,19 @@ li:hover {
 }
 
 #headerNav > ul {
+    position: fixed;
     list-style-type: none;
     display: flex;
-    width: 50%;
+    flex-direction: column;
+    justify-content: center;
+    width: 150px;
+    left: 48px;
+    height: 100%;
 }
 
 #headerNav > ul > li {
     height: 48px;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 #mobileNav {
@@ -136,6 +141,7 @@ li:hover {
 
 .selected {
     font-weight: bold;
+    font-style: italic;
 }
 
 main {
