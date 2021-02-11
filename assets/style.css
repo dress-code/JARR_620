@@ -183,7 +183,7 @@ p, dd {
 
 .twoColumns > div {
     width: 100%;
-    margin: 0;
+    margin: 20px 0;
 }
 
 @media screen and (min-width: 750px){
@@ -193,7 +193,7 @@ p, dd {
     
     .twoColumns > div {
         width: 40%;
-        margin: 5%;
+        margin: 20px 5%;
     }
 }
 
