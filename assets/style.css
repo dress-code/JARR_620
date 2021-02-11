@@ -23,7 +23,7 @@
 #mobileNav {
     position: fixed;
     top: 0;
-    right: 0;
+    left: 0;
     background-color: #F6F6F6;
     box-shadow: 1px 1px 11px -5px rgba(135,146,161,0.85);
     width: 150px;
@@ -44,7 +44,7 @@
 }
 
 #nav-icon4 {
-    right: 36px;
+    left: 36px;
     top: 24px;
     width: 30px;
     position: fixed;
