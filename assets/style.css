@@ -223,8 +223,10 @@ dd {
 }
 
 .twoColumns > a {
-    background-color: #FFFFFF;
-    padding: 10px;
+    height: 50px;
+    line-height: 50px;
+    color: #000000;
+    text-decoration: underline;
 }
 
 .profileImage {
