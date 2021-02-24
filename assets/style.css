@@ -222,6 +222,11 @@ dd {
     margin: 0;
 }
 
+.twoColumns > a {
+    background-color: #FFFFFF;
+    padding: 10px;
+}
+
 .profileImage {
     width: 76px;
 }
