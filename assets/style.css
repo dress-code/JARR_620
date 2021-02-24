@@ -213,7 +213,7 @@ dd {
     flex-wrap: wrap;
 }
 
-.twoColumns > div {
+.twoColumns > div, .twoColumns > a {
     width: 100%;
     margin: 8px 0;
 }
@@ -239,7 +239,7 @@ footer {
         width: 600px;
     }  
     
-    .twoColumns > div {
+    .twoColumns > div, .twoColumns > a {
         width: 40%;
         margin: 16px 5%;
     }
