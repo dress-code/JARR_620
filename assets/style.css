@@ -223,8 +223,8 @@ dd {
 }
 
 .twoColumns > a {
-    height: 50px;
-    line-height: 50px;
+    height: 25px;
+    line-height: 25px;
     color: #000000;
     text-decoration: underline;
 }
