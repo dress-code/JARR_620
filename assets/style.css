@@ -229,6 +229,10 @@ dd {
     text-decoration: underline;
 }
 
+.twoColumns > div > img {
+    width: 95%;
+}
+
 .profileImage {
     width: 76px;
 }
