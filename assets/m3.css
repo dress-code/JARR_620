@@ -4,6 +4,7 @@
 
 .personaTopSection {
   display: flex;
+  flex-direction: column;
 }
 
 .personaTopSection > img {
@@ -20,17 +21,23 @@
     margin: 0 0 8px 16px;
 }
 
-.personaTopSection.rightAlign {
-  flex-direction: row-reverse;
-}
+@media screen and (minwidth > 750px) {
+  .personaTopSection {
+    flex-direction: row;
+  }
+  
+  .personaTopSection.alignRight {
+    flex-direction: row-reverse;
+  }
 
-.personaTopSection.rightAlign > div {
-  text-align: right;
-  margin-right: 24px;
-}
+  .personaTopSection.rightAlign > div {
+    text-align: right;
+    margin-right: 24px;
+  }
 
-.personaTopsection.rightAlign > div > h3 {
+  .personaTopsection.rightAlign > div > h3 {
    text-align: right;
+  }
 }
 
 
