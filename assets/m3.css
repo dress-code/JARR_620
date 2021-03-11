@@ -8,9 +8,8 @@
 }
 
 .personaTopSection > img {
-    width: 40%;
+    width: 100%;
     object-fit: cover;
-    margin-right: 24px;
 }
 
 .personaTopSection > div > h3:first-child {
@@ -37,6 +36,11 @@
 
   .personaTopsection.rightAlign > div > h3 {
    text-align: right;
+  }
+  
+  .personaTopSection > img {
+    width: 40%;
+    margin-right: 24px;
   }
 } /*End media query: 750px minimum */
 
