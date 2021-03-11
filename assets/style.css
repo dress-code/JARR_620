@@ -209,6 +209,10 @@ dd {
     margin-left: 5%;
 }
 
+img {
+    border-radius: 12px;
+}
+
 .twoColumns {
     display: flex;
     flex-wrap: wrap;
