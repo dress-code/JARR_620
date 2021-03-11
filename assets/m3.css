@@ -2,10 +2,6 @@
   padding: 12px 0 36px 0;
 }
 
-.personaTopSection > div > h3:first-child {
-  color: #d4a50b;
-}
-
 .personaTopSection {
   display: flex;
 }
@@ -14,6 +10,14 @@
     width: 40%;
     object-fit: cover;
     margin-right: 24px;
+}
+
+.personaTopSection > div > h3:first-child {
+  color: #d4a50b;
+}
+
+.personaTopSection > div > dl > dd {
+    margin: 0 0 8px 16px;
 }
 
 .personaTopSection.rightAlign {
