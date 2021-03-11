@@ -20,7 +20,7 @@
     margin: 0 0 8px 16px;
 }
 
-@media screen and (minwidth: 750px) {
+@media screen and (min-width: 750px) {
   .personaTopSection {
     flex-direction: row;
   }
