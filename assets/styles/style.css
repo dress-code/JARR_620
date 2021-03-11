@@ -242,6 +242,14 @@ img {
     width: 76px;
 }
 
+hr {
+    height: 4px;
+    background-color: #d4a50b;
+    border: none;
+    border-radius: 2px;
+    width: 40%;
+    margin: 24px auto;}
+
 /*---------- FOOTER STYLES ---------*/
 footer {
     width: 100%;
