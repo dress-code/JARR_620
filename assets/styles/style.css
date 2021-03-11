@@ -243,12 +243,13 @@ img {
 }
 
 hr {
-    height: 4px;
+    height: 3px;
     background-color: #d4a50b;
     border: none;
     border-radius: 2px;
-    width: 40%;
-    margin: 24px auto;}
+    width: 20%;
+    margin: 36px auto 0 auto;
+}
 
 /*---------- FOOTER STYLES ---------*/
 footer {
