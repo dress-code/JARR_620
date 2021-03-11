@@ -2,6 +2,10 @@
   margin-top: 24px;
 }
 
+.personaTopsection > div > h3 {
+  width: 100%;
+}
+
 .personaTopSection {
   display: flex;
 }
@@ -12,3 +16,18 @@
     margin-right: 24px;
     border-radius: 48px;
 }
+
+.personaTopSection.rightAlign {
+  flex-direction: row-reverse;
+}
+
+.personaTopSection.rightAlign > div {
+  text-align: right;
+  margin-right: 24px;
+}
+
+.personaTopsection.rightAlign > div > h3 {
+   text-align: right;
+}
+
+
