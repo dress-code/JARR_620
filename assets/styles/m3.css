@@ -43,5 +43,6 @@
     width: 40%;
     margin-right: 24px;
     height: 424px;
+    max-height: unset;
   }
 } /*End media query: 750px minimum */
