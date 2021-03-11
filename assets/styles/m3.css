@@ -42,6 +42,6 @@
   .personaTopSection > img {
     width: 40%;
     margin-right: 24px;
-    max-height: unset;
+    height: 424px;
   }
 } /*End media query: 750px minimum */
