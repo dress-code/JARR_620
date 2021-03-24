@@ -213,6 +213,10 @@ img {
     border-radius: 12px;
 }
 
+section > img {
+    width: 100%;
+}
+
 .twoColumns {
     display: flex;
     flex-wrap: wrap;
